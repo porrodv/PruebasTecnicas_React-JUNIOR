@@ -1,0 +1,27 @@
+#root {
+  display: grid;
+  place-content: center;
+  padding: 0.5rem;
+}
+
+.btn-container{
+  width: 100%;
+  display: grid;
+  place-content: center;
+  margin: 1rem 0;
+}
+#reset__btn{
+  background-color: rgb(31, 29, 185);
+  color: #eee;
+  width: 100px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: all 0.1s;
+  cursor: pointer;
+  outline: none;
+}
+#reset__btn:hover{
+  background-color: rgb(51, 0, 255);
+}

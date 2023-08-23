@@ -1,0 +1,7 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
